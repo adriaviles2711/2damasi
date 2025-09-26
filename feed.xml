@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>SportCenter Elite</title>
-    <link href="https://adriaviles2711.github.io/2damasi/feed.xml" rel="self" />
-    <link href="https://adriaviles2711.github.io/2damasi" />
+    <link href="https://adriaviles2711.github.io/2damasi/index.html/feed.xml" rel="self" />
+    <link href="https://adriaviles2711.github.io/2damasi/index.html" />
     <updated>2025-09-26T09:03:13+02:00</updated>
     <author>
         <name>Adrián Avilés Sánchez</name>
     </author>
-    <id>https://adriaviles2711.github.io/2damasi</id>
+    <id>https://adriaviles2711.github.io/2damasi/index.html</id>
 
     <entry>
         <title>Nuestras instalaciones</title>
         <author>
             <name>Adrián Avilés Sánchez</name>
         </author>
-        <link href="https://adriaviles2711.github.io/2damasi/nuestras-instalaciones.html"/>
-        <id>https://adriaviles2711.github.io/2damasi/nuestras-instalaciones.html</id>
-        <media:content url="https://adriaviles2711.github.io/2damasi/media/posts/2/Gimnasio-Alameda-rBoniGonzalez-20-min-scaled.jpg" medium="image" />
+        <link href="https://adriaviles2711.github.io/2damasi/index.html/nuestras-instalaciones.html"/>
+        <id>https://adriaviles2711.github.io/2damasi/index.html/nuestras-instalaciones.html</id>
+        <media:content url="https://adriaviles2711.github.io/2damasi/index.html/media/posts/2/Gimnasio-Alameda-rBoniGonzalez-20-min-scaled.jpg" medium="image" />
 
         <updated>2025-09-26T08:49:18+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://adriaviles2711.github.io/2damasi/media/posts/2/Gimnasio-Alameda-rBoniGonzalez-20-min-scaled.jpg" alt="" />
+                        <img src="https://adriaviles2711.github.io/2damasi/index.html/media/posts/2/Gimnasio-Alameda-rBoniGonzalez-20-min-scaled.jpg" alt="" />
                     En nuestro centro deportivo de élite reunimos lo mejor de la innovación, la comodidad y la excelencia deportiva. Cada espacio está diseñado para ofrecer el entorno ideal a quienes buscan entrenar, competir y disfrutar del deporte al máximo nivel. Gimnasio de última generación con equipos&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://adriaviles2711.github.io/2damasi/media/posts/2/Gimnasio-Alameda-rBoniGonzalez-20-min-scaled.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://adriaviles2711.github.io/2damasi/index.html/media/posts/2/Gimnasio-Alameda-rBoniGonzalez-20-min-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     En nuestro centro deportivo de élite reunimos lo mejor de la innovación, la comodidad y la excelencia deportiva. Cada espacio está diseñado para ofrecer el entorno ideal a quienes buscan entrenar, competir y disfrutar del deporte al máximo nivel. <br>Gimnasio de última generación con equipos de alta tecnología para fuerza, cardio y entrenamiento funcional.
